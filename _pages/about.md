@@ -9,3 +9,6 @@ redirect_from:
 ---
 
 Hi! I'm a research scientist developping machine learning tools for computational physics and engineering.
+
+Publications [#publications]
+============
