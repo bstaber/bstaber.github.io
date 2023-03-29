@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Brian Staber"
 title_separator          : "-"
 name                     : &name "Brian Staber"
 description              : &description "personal description"
