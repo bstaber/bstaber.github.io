@@ -5,7 +5,7 @@ main:
     url: /about/
 
   - title: "Publications"
-    url: /about.md#publications
+    url: /publications/
 
   - title: "Resume"
     url: /cv/
