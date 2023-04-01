@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a research scientist developping machine learning tools for computational physics and engineering.
+Hi! I'm a research scientist in machine learning and I specialize in graph data and uncertainty quantification.
