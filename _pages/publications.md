@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+The list of my preprints and publications can also be found on [Google Scholar](https://scholar.google.fr/citations?user=61j2VawAAAAJ&hl=fr&oi=ao).
+
 Prepints
 ---------
 
