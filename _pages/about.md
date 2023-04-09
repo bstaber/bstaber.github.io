@@ -16,8 +16,8 @@ Research interests
 ==================
 
 * Uncertainty quantification in ML (Bayesian inference, ensemble techniques, conformal predictions)
-* Machine learning for graphes (graph neural networks, graph kernels, optimal transport, ...)
 * Kernel methods for post-processing MCMC outputs 
+* Machine learning for graphs (graph neural networks, graph kernels, optimal transport, ...)
 * Stochastic modeling in computational mechanics
 
 Softwares
