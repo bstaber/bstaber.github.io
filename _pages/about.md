@@ -32,14 +32,12 @@ Publications
 
 The list of my preprints and publications can also be found on [Google Scholar](https://scholar.google.fr/citations?user=61j2VawAAAAJ&hl=fr&oi=ao).
 
-Prepints
----------
+#### Prepints
 
 * B. Staber, S. Da Veiga, Benchmarking Bayesian neural networks and metrics for regression tasks ([arXiv:2206.06779](https://arxiv.org/abs/2206.06779))
 * C. Benard, B. Staber, S. Da Vegiga, Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization ([arXiv:2301.13528](https://arxiv.org/pdf/2301.13528.pdf))
 
-Published papers
-----------------
+#### Published papers
 
 * B. Staber, S. Forest, M. Al-Kotob, M. Mazière, T. Tose, Loss of ellipticity analysis in non-smooth plasticity, IJSS (2021) ([hal-03372375](https://hal.science/hal-03372375/document))
 * B. Staber, J. Guilleminot, C. Soize, J. Michopoulos, A. Iliopoulos, Stochastic modeling and identification of a hyperelastic constitutive model for laminated composites, CMAME (2019) ([sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0045782518306431))
