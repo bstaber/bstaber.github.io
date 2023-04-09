@@ -15,7 +15,7 @@ In 2018, I defended my [PhD thesis](https://theses.hal.science/tel-01982185) on 
 Research interests
 ==================
 
-* Uncertainty quantification in ML (Bayesian inference, ensemble techniques, conformal predictions)
+* Uncertainty quantification in deep learning (Bayesian neural networks, ensemble techniques, conformal predictions)
 * Kernel methods for post-processing MCMC outputs 
 * Machine learning for graphs (graph neural networks, graph kernels, optimal transport, ...)
 * Stochastic modeling in computational mechanics
