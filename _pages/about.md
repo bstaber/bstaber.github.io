@@ -11,3 +11,18 @@ redirect_from:
 Hi! I'm a research scientist in machine learning at the research center of Safran, a french company that designs and manufactures various aerospace and defense equipments. I specialize in machine learning on graph data and I have a strong interest in uncertainty quantification. Developing scientific codes is also an area that I particularly enjoy.
 
 In 2018, I defended my [PhD thesis](https://theses.hal.science/tel-01982185) on uncertainty quantification in computational mechanics and was awarded a [European PhD award](https://www.eccomas.org/2019/10/15/eccomas-award-for-the-best-ph-d-theses-of-2018-on-computational-methods-in-applied-sciences-and-engineering/) for my work. Since then, I have been working as a machine learning researcher with a focus on applying my expertise to the field of aeronautics. I spend my time working on Bayesian inference and conformal predictions for uncertainty quantification, as well as kernel methods and deep learning for surrogate modeling.
+
+Research interests
+==================
+
+* Uncertainty quantification in ML (Bayesian inference, ensemble techniques, conformal predictions)
+* Machine learning for graphes (graph neural networks, graph kernels, optimal transport, ...)
+* Kernel methods for post-processing MCMC outputs 
+* Stochastic modeling in computational mechanics
+
+Softwares
+=========
+
+* [batorch](https://gitlab.com/drti/batorch) : python package that implements a few stochastic gradient MCMC methods for Bayesian neural networks with PyTorch)
+* [kernax (coming soon)](https://gitlab.com/drti/kernax) : python package that implements a regularized variant of the Stein thinning algorithm, written with JAX
+* [TrilinosUQComp](https://github.com/bstaber/TrilinosUQComp) : C++ library I developped as a graduate student and which implements a parallel finite element method thanks to Trilinos (linearized & finite strain elasticity), together with a few sampling algorithms for non Gaussian random fields (spectral and SPDE pproaches)
