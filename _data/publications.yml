@@ -1,35 +1,35 @@
 - title: Loss of ellipticity analysis in non-smooth plasticity
-  image: images/publication8.png
+  image: /images/publication8.png
   caption: B. Staber, S. Forest, et al., IJSS (2021) <a href="https://hal.science/hal-03372375/document">[link]</a>
 
 - title: Stochastic modeling and identification of a hyperelastic constitutive model for laminated composites
-  image: images/publication7.png
+  image: /images/publication7.png
   caption: B. Staber, J. Guilleminot, et al., CMAME (2019) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782518306431">[link]</a>
 
 - title: A random field model for anisotropic strain energy functions and its application for uncertainty quantification in vascular mechanics
-  image: images/publication6.png
+  image: /images/publication6.png
   caption: B. Staber, J. Guilleminot, CMAME (2018) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782518300033">[link]</a>
 
 - title: "Stochastic modeling and generation of random fields of elasticity tensors: a unified information-theoretic approach"
-  image: images/publication5.png
+  image: /images/publication5.png
   caption: B. Staber, J. Guilleminot, CRM (2017) <a href="https://www.sciencedirect.com/science/article/pii/S1631072117300773">[link]</a>
 
 - title: Stochastic hyperelastic constitutive laws and identification procedure for soft biological tissues with intrinsic variability
-  image: images/publication4.png
+  image: /images/publication4.png
   caption: B. Staber, J. Guilleminot, JMBBM (2017) <a href="https://hal.science/hal-01367381/file/JMBBM-Preprint.pdf">[link]</a>
 
 - title: "Stochastic modeling of the Ogden class of stored energy functions for hyperelastic materials: the compressible case"
-  image: images/publication3.png
+  image: /images/publication3.png
   caption: B. Staber, J. Guilleminot, Journal of Applied Mathemarics and Mechanics (2017) <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/zamm.201500255">[link]</a>
 
 - title: "Functional approximation and projection of stored energy functions in computational homogenization of hyperelastic materials: A probabilistic perspective"
-  image: images/publication2.png
+  image: /images/publication2.png
   caption: B. Staber, J. Guilleminot, CMAME (2017) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782516303103">[link]</a>
 
 - title: Stochastic modeling of a class of stored energy functions for incompressible hyperelastic materials with uncertainties
-  image: images/publication1.png
+  image: /images/publication1.png
   caption: B. Staber, J. Guilleminot, CRM (2015) <a href="https://www.sciencedirect.com/science/article/pii/S1631072115000832">[link]</a>
 
 - title: Approximate solutions of Lagrange multipliers for information-theoretic random field models
-  image: images/publication0.png
+  image: /images/publication0.png
   caption: B. Staber, J. Guilleminot, SIAM/JUQ (2015) <a href="https://hal.science/hal-01166830/document">[link]</a>

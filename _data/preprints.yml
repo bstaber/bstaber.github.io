@@ -1,11 +1,11 @@
 - title: Benchmarking Bayesian neural networks and evaluation metrics for regression tasks
-  image: images/publication10.png
+  image: /images/publication10.png
   caption: B. Staber, S. Da Veiga <a href="https://arxiv.org/pdf/2206.06779.pdf">[link]</a>
 
 - title: "Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization"
-  image: images/publication11.png
+  image: /images/publication11.png
   caption: C. Benard, B. Staber, S. Da Veiga <a href="https://arxiv.org/pdf/2301.13528.pdf">[link]</a>
 
 - title: "MMGP: a Mesh Morphing Gaussian Process-based machine learning method for regression of physical problems under non-parameterized geometrical variability"
-  image: images/publication12.png
+  image: /images/publication12.png
   caption: F. Casenave, B. Staber, X. Roynard <a href="https://arxiv.org/pdf/2305.12871.pdf">[link]</a>
