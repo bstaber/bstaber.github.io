@@ -8,6 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 gem "github-pages", group: :jekyll_plugins
 
@@ -25,3 +26,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "webrick", "~> 1.8"

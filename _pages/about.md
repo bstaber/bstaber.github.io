@@ -31,13 +31,24 @@ Softwares
 Preprints
 =========
 
-* B. Staber, S. Da Veiga, Benchmarking Bayesian neural networks and evaluation metrics for regression tasks ([arXiv:2206.06779](https://arxiv.org/abs/2206.06779))
-* C. Benard, B. Staber, S. Da Veiga, Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization ([arXiv:2301.13528](https://arxiv.org/pdf/2301.13528.pdf))
+<!-- * B. Staber, S. Da Veiga, Benchmarking Bayesian neural networks and evaluation metrics for regression tasks ([arXiv:2206.06779](https://arxiv.org/abs/2206.06779))
+* C. Benard, B. Staber, S. Da Veiga, Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization ([arXiv:2301.13528](https://arxiv.org/pdf/2301.13528.pdf)) -->
+
+{% for preprint in site.data.preprints %}
+<div class="preprint-item">
+  <img src="{{ preprint.image }}" alt="preprint Image" class="preprint-image">
+  <div class="preprint-caption">
+    {{ preprint.caption }}
+    <br>
+    <b>{{ preprint.title }}</b>
+  </div>
+</div>
+{% endfor %}
 
 Publications
 ============
 
-* B. Staber, S. Forest, M. Al-Kotob, M. Mazière, T. Tose, Loss of ellipticity analysis in non-smooth plasticity, IJSS (2021) ([hal-03372375](https://hal.science/hal-03372375/document))
+<!-- * B. Staber, S. Forest, M. Al-Kotob, M. Mazière, T. Tose, Loss of ellipticity analysis in non-smooth plasticity, IJSS (2021) ([hal-03372375](https://hal.science/hal-03372375/document))
 * B. Staber, J. Guilleminot, C. Soize, J. Michopoulos, A. Iliopoulos, Stochastic modeling and identification of a hyperelastic constitutive model for laminated composites, CMAME (2019) ([sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0045782518306431))
 * B. Staber, J. Guilleminot, A random field model for anisotropic strain energy functions and its application for uncertainty quantification in vascular mechanics, CMAME (2018à ([sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0045782518300033))
 * B. Staber, J. Guilleminot, Stochastic modeling and generation of random fields of elasticity tensors: a unified information-theoretic approach, CRM (2017) ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1631072117300773))
@@ -45,4 +56,17 @@ Publications
 * B. Staber, J. Guilleminot, Stochastic modeling of the Ogden class of stored energy functions for hyperelastic materials: the compressible case, ZAMM-Journal of Applied Mathemarics and Mechanics (2017) ([wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/zamm.201500255))
 * B. Staber, J. Guilleminot, Functional approximation and projection of stored energy functions in computational homogenization of hyperelastic materials: A probabilistic perspective, CMAME (2017) ([sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0045782516303103))
 * B. Staber, J. Guilleminot, Stochastic modeling of a class of stored energy functions for incompressible hyperelastic materials with uncertainties, CRM (2015) ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1631072115000832))
-* B. Staber, J. Guilleminot, Approximate solutions of Lagrange multipliers for information-theoretic random field models, SIAM/JUQ (2015) ([hal-01166830](https://hal.science/hal-01166830/document))
+* B. Staber, J. Guilleminot, Approximate solutions of Lagrange multipliers for information-theoretic random field models, SIAM/JUQ (2015) ([hal-01166830](https://hal.science/hal-01166830/document)) -->
+
+<!-- ## My Publications -->
+
+{% for publication in site.data.publications %}
+<div class="publication-item">
+  <img src="{{ publication.image }}" alt="Publication Image" class="publication-image">
+  <div class="publication-caption">
+    {{ publication.caption }}
+    <br>
+    <b>{{ publication.title }}</b>
+  </div>
+</div>
+{% endfor %}

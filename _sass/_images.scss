@@ -1,0 +1,35 @@
+.publication-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+.publication-image {
+  width: 200px; /* Adjust this value as needed */
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+
+.publication-caption {
+  flex: 1;
+  margin: 0;
+  text-align: top;
+}
+
+.preprint-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.preprint-image {
+  width: 200px; /* Adjust this value as needed */
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+
+.preprint-caption {
+  flex: 1;
+  margin: 0;
+  text-align: top;
+}
