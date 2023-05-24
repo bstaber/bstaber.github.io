@@ -1,11 +1,14 @@
 # main links links
 main:
   
-  - title: "Softwares"
-    url: /#softwares  
+  - title: "About"
+    url: /#
   
-  - title: "Preprints"
-    url: /#preprints
+  - title: "Softwares"
+    url: /softwares  
+  
+  # - title: "Preprints"
+  #   url: /#preprints
 
-  - title: "Publications"
-    url: /#publications
+  - title: "Papers"
+    url: /publications

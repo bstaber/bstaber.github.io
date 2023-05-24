@@ -1,0 +1,41 @@
+---
+layout: archive
+title: ""
+permalink: /publications/
+---
+
+<h1 class="mt-4">Preprints</h1>
+{% assign preprints = site.preprints | sort: "year" | reverse %}
+{% for pub in preprints %}
+<div class="preprintitem">
+    <div class="preprintteaser">
+        <a href="{{pub.url}}">
+            <img
+            src="{{ pub.slug }}"
+            alt="{{pub.slug}} preprint teaser"
+            />
+        </a>
+    </div>
+    <div class="preprinttitle">{{ pub.title }}</div>
+    <div class="preprintauthors">{{ pub.authors }}</div>
+    <div class="preprintinfo">{{ pub.publication }}, {{ pub.year}}</div>
+</div>
+{% endfor %}
+
+<h1 class="mt-4">Publications</h1>
+{% assign publications = site.publications | sort: "year" | reverse %}
+{% for pub in publications %}
+<div class="pubitem">
+    <div class="pubteaser">
+        <a href="{{pub.url}}">
+            <img
+            src="{{ pub.slug }}"
+            alt="{{pub.slug}} publication teaser"
+            />
+        </a>
+    </div>
+    <div class="pubtitle">{{ pub.title }}</div>
+    <div class="pubauthors">{{ pub.authors }}</div>
+    <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
+</div>
+{% endfor %}
