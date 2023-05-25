@@ -13,5 +13,5 @@ main:
   - title: "Papers"
     url: /publications
 
-  - title: "Papers2"
-    url: /publications2
+  # - title: "Papers2"
+  #   url: /publications2
