@@ -11,7 +11,7 @@ Prepints
 ---------
 
 * B. Staber, S. Da Veiga, Benchmarking Bayesian neural networks and metrics for regression tasks ([arXiv:2206.06779](https://arxiv.org/abs/2206.06779))
-* C. Benard, B. Staber, S. Da Vegiga, Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization ([arXiv:2301.13528](https://arxiv.org/pdf/2301.13528.pdf))
+* C. Benard, B. Staber, S. Da Veiga, Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization ([arXiv:2301.13528](https://arxiv.org/pdf/2301.13528.pdf))
 * F. Casenave, B. Staber, X. Roynard, MMGP: a Mesh Morphing Gaussian Process-based machine learning method for regression of physical problems under non-parameterized geometrical variability ([arXiv:2305.12871](https://arxiv.org/pdf/2305.12871.pdf))
 
 Publications
