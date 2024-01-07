@@ -11,12 +11,12 @@ Prepints
 ---------
 
 * B. Staber, S. Da Veiga, Benchmarking Bayesian neural networks and metrics for regression tasks ([arXiv:2206.06779](https://arxiv.org/abs/2206.06779))
-* C. Benard, B. Staber, S. Da Veiga, Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization ([arXiv:2301.13528](https://arxiv.org/pdf/2301.13528.pdf))
-* F. Casenave, B. Staber, X. Roynard, MMGP: a Mesh Morphing Gaussian Process-based machine learning method for regression of physical problems under non-parameterized geometrical variability ([arXiv:2305.12871](https://arxiv.org/pdf/2305.12871.pdf))
 
 Publications
 ------------
 
+* C. Benard, B. Staber, S. Da Veiga, Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization, NeurIPS (2023) ([openreview](https://openreview.net/forum?id=TjgG4UT62W))
+* F. Casenave, B. Staber, X. Roynard, MMGP: a Mesh Morphing Gaussian Process-based machine learning method for regression of physical problems under non-parameterized geometrical variability, NeurIPS (2023) ([openreview](https://openreview.net/forum?id=Ca78M3awPw))
 * B. Staber, S. Forest, M. Al-Kotob, M. Mazière, T. Tose, Loss of ellipticity analysis in non-smooth plasticity, IJSS (2021) ([hal-03372375](https://hal.science/hal-03372375/document))
 * B. Staber, J. Guilleminot, C. Soize, J. Michopoulos, A. Iliopoulos, Stochastic modeling and identification of a hyperelastic constitutive model for laminated composites, CMAME (2019) ([sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0045782518306431))
 * B. Staber, J. Guilleminot, A random field model for anisotropic strain energy functions and its application for uncertainty quantification in vascular mechanics, CMAME (2018à ([sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0045782518300033))
