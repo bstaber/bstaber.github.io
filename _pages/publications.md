@@ -15,6 +15,7 @@ Prepints
 Publications
 ------------
 
+* R. Carpintero Perez, S. Da Veiga, J. Garnier, B. Staber, Gaussian process regression with Sliced Wasserstein Weisfeiler-Lehman graph kernels, to appear ([arXiv:2402.03838](https://arxiv.org/pdf/2402.03838.pdf))
 * C. Benard, B. Staber, S. Da Veiga, Kernel Stein Discrepancy thinning: a theoretical perspective of pathologies and a practical fix with regularization, NeurIPS (2023) ([openreview](https://openreview.net/forum?id=TjgG4UT62W))
 * F. Casenave, B. Staber, X. Roynard, MMGP: a Mesh Morphing Gaussian Process-based machine learning method for regression of physical problems under non-parameterized geometrical variability, NeurIPS (2023) ([openreview](https://openreview.net/forum?id=Ca78M3awPw))
 * B. Staber, S. Forest, M. Al-Kotob, M. Mazière, T. Tose, Loss of ellipticity analysis in non-smooth plasticity, IJSS (2021) ([hal-03372375](https://hal.science/hal-03372375/document))
