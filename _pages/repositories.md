@@ -37,8 +37,6 @@ nav_order: 4
 
 {% if site.data.repositories.github_repos %}
 
-## Projets
-
 **Projects I'm currently working on**:
 
 - [rustineers](https://github.com/bstaber/rustineers): A collection of crates to learn Rust with applied sciences. I try to comment and explain my journey in a small [book](https://bstaber.github.io/rustineers/) that goes with it.
