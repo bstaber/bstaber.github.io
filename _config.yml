@@ -198,10 +198,10 @@ exclude:
   - _pages/dropdown.md
   - _pages/news.md
   - _pages/profiles.md
-  - _pages/publications.md
   - _pages/teaching.md
   - _posts/
   - _news/
+  - _projets/
 keep_files:
   - CNAME
   - .nojekyll
