@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m a research engineer in scientific machine learning. My background combines computational physics, applied statistics, and machine learning.
+I work as a machine learning engineer at Safran on applied AI systems for aerospace and defense applications. My background combines computational physics, applied statistics, and machine learning, with a focus on building practical solutions for physics-based and industrial problems.
 
-In 2018, I completed a PhD under the supervision of [Johann Guilleminot](https://cee.duke.edu/people/johann-guilleminot/) in uncertainty quantification for computational mechanics, with applications to biological systems. My research focused on the stochastic modeling of patient-specific constitutive equations for soft biological tissues and surrogate models for multiscale mechanics.
+Over the past eight years, I have worked on surrogate modeling and data-driven approaches operating on complex engineering data such as meshes, fields, and graphs, as well as on computer vision methods for industrial anomaly detection. My work involves developing end-to-end ML pipelines, from dataset preparation and model training to evaluation and deployment, often in distributed or HPC environments.
 
-Since then, I have worked as a research engineer on aeronautical and defense applications, specializing in scientific machine learning. For nearly six years, my work has centered on developing surrogate models to accelerate engineering design. I have dedicated most of my time to deep learning approaches such as graph neural networks, kernel methods, and uncertainty quantification techniques, including Bayesian inference and conformal prediction. I also have experience in industrial anomaly detection.
+I mainly work with deep learning models (graph neural networks, neural operators, transformers), as well as kernel and Gaussian process methods, and I pay particular attention to uncertainty and model reliability in real-world settings. Some of this work has resulted in peer-reviewed publications at top-tier machine learning conferences, including NeurIPS and AISTATS.
 
-I am deeply curious and always eager to learn, thriving on new challenges that push me to explore different domains and methodologies. Whether it’s tackling a complex problem, experimenting with new algorithms, or diving into an unfamiliar field, I really enjoy expanding my knowledge, or at least I try to. I also enjoy developing scientific software in Python, C++, and recently Rust (we all make mistakes).
+I enjoy learning new tools and approaches, collaborating with domain experts, and contributing to robust scientific software. Most of my development work is in Python and C++, and involves standard software engineering practices such as testing, continuous integration, and reproducible workflows.
